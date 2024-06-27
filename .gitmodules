@@ -1,0 +1,3 @@
+[submodule "docker-php-composer"]
+	path = docker-php-composer
+	url = https://github.com/kupmankode/docker-php-composer.git
